@@ -1,5 +1,5 @@
-Discord : exaz#6459
-I love math
+Discord : exaz#6459 <br/>
+I love math <br/>
 I hate design
 
 <!---
